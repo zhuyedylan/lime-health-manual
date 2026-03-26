@@ -1,0 +1,24 @@
+{
+  "id": "test",
+  "title": "手动打卡和测试",
+  "description": "当您有未被智能设备自动记录的健康数据，或需要进行专业的自我健康状态评估时，可以通过此板块进行手动补充。",
+  "source": "@site/docs/test.md",
+  "sourceDirName": ".",
+  "slug": "/test",
+  "permalink": "/ninghealth-manual/docs/test",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zhuyedylan/ninghealth-manual/tree/main/docs/test.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "健康评估",
+    "permalink": "/ninghealth-manual/docs/evaluation"
+  },
+  "next": {
+    "title": "挑战板块",
+    "permalink": "/ninghealth-manual/docs/challenge"
+  }
+}

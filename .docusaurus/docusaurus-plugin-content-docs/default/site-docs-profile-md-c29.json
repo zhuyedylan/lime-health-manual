@@ -1,0 +1,24 @@
+{
+  "id": "profile",
+  "title": "个人资料管理",
+  "description": "主页名片与专属二维码",
+  "source": "@site/docs/profile.md",
+  "sourceDirName": ".",
+  "slug": "/profile",
+  "permalink": "/ninghealth-manual/docs/profile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zhuyedylan/ninghealth-manual/tree/main/docs/profile.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "注册指南",
+    "permalink": "/ninghealth-manual/docs/register"
+  },
+  "next": {
+    "title": "我的板块",
+    "permalink": "/ninghealth-manual/docs/main-features"
+  }
+}

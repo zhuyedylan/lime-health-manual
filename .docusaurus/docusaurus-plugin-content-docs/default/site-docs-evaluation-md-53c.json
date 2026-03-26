@@ -1,0 +1,24 @@
+{
+  "id": "evaluation",
+  "title": "健康评估",
+  "description": "通过多维度的数据采集与深度分析，为您全方位的身体健康状态评估。",
+  "source": "@site/docs/evaluation.md",
+  "sourceDirName": ".",
+  "slug": "/evaluation",
+  "permalink": "/ninghealth-manual/docs/evaluation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zhuyedylan/ninghealth-manual/tree/main/docs/evaluation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "锻炼功能",
+    "permalink": "/ninghealth-manual/docs/exercise"
+  },
+  "next": {
+    "title": "手动打卡和测试",
+    "permalink": "/ninghealth-manual/docs/test"
+  }
+}

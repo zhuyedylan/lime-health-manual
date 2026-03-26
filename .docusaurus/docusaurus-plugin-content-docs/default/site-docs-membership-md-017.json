@@ -1,0 +1,24 @@
+{
+  "id": "membership",
+  "title": "会员与权益",
+  "description": "通过开通柠健康高级会员或绑定合作伙伴的尊贵会员，您将解锁一系列专业的健康管理工具、专属的运动特权以及丰富的增值服务。",
+  "source": "@site/docs/membership.md",
+  "sourceDirName": ".",
+  "slug": "/membership",
+  "permalink": "/ninghealth-manual/docs/membership",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zhuyedylan/ninghealth-manual/tree/main/docs/membership.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "我的板块",
+    "permalink": "/ninghealth-manual/docs/main-features"
+  },
+  "next": {
+    "title": "健康习惯",
+    "permalink": "/ninghealth-manual/docs/habits"
+  }
+}

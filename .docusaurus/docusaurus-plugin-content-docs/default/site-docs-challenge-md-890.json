@@ -1,0 +1,24 @@
+{
+  "id": "challenge",
+  "title": "挑战板块",
+  "description": "通过丰富的激励机制和社交互动，帮助您更好地坚持运动与健康习惯。",
+  "source": "@site/docs/challenge.md",
+  "sourceDirName": ".",
+  "slug": "/challenge",
+  "permalink": "/ninghealth-manual/docs/challenge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zhuyedylan/ninghealth-manual/tree/main/docs/challenge.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "手动打卡和测试",
+    "permalink": "/ninghealth-manual/docs/test"
+  },
+  "next": {
+    "title": "俱乐部板块",
+    "permalink": "/ninghealth-manual/docs/club"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ai-report",
+  "title": "AI报告与分析板块",
+  "description": "该板块基于您日常记录的各项健康、身体与运动数据，通过人工智能技术为您生成深度的解读报告和个性化的改善计划。",
+  "source": "@site/docs/ai-report.md",
+  "sourceDirName": ".",
+  "slug": "/ai-report",
+  "permalink": "/ninghealth-manual/docs/ai-report",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zhuyedylan/ninghealth-manual/tree/main/docs/ai-report.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "俱乐部板块",
+    "permalink": "/ninghealth-manual/docs/club"
+  }
+}

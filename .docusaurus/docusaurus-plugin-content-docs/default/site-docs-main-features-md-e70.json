@@ -1,0 +1,24 @@
+{
+  "id": "main-features",
+  "title": "我的板块",
+  "description": "欢迎来到\"我的\"板块，这是您的个人专属综合管理中心。",
+  "source": "@site/docs/main-features.md",
+  "sourceDirName": ".",
+  "slug": "/main-features",
+  "permalink": "/ninghealth-manual/docs/main-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zhuyedylan/ninghealth-manual/tree/main/docs/main-features.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "个人资料管理",
+    "permalink": "/ninghealth-manual/docs/profile"
+  },
+  "next": {
+    "title": "会员与权益",
+    "permalink": "/ninghealth-manual/docs/membership"
+  }
+}

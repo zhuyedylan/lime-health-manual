@@ -1,0 +1,24 @@
+{
+  "id": "exercise",
+  "title": "锻炼功能",
+  "description": "欢迎使用柠健康 APP 的\"锻炼\"功能板块。",
+  "source": "@site/docs/exercise.md",
+  "sourceDirName": ".",
+  "slug": "/exercise",
+  "permalink": "/ninghealth-manual/docs/exercise",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zhuyedylan/ninghealth-manual/tree/main/docs/exercise.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "健康习惯",
+    "permalink": "/ninghealth-manual/docs/habits"
+  },
+  "next": {
+    "title": "健康评估",
+    "permalink": "/ninghealth-manual/docs/evaluation"
+  }
+}

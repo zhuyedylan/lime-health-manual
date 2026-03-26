@@ -1,0 +1,24 @@
+{
+  "id": "register",
+  "title": "注册指南",
+  "description": "欢迎使用柠健康（LiMe）APP！",
+  "source": "@site/docs/register.md",
+  "sourceDirName": ".",
+  "slug": "/register",
+  "permalink": "/ninghealth-manual/docs/register",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zhuyedylan/ninghealth-manual/tree/main/docs/register.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "柠健康 APP 用户手册",
+    "permalink": "/ninghealth-manual/docs/intro"
+  },
+  "next": {
+    "title": "个人资料管理",
+    "permalink": "/ninghealth-manual/docs/profile"
+  }
+}

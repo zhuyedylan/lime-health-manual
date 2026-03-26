@@ -1,0 +1,24 @@
+{
+  "id": "club",
+  "title": "俱乐部板块",
+  "description": "俱乐部是供拥有相同运动爱好和健康目标的用户聚集、交流、分享与竞技的专属社群空间。",
+  "source": "@site/docs/club.md",
+  "sourceDirName": ".",
+  "slug": "/club",
+  "permalink": "/ninghealth-manual/docs/club",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zhuyedylan/ninghealth-manual/tree/main/docs/club.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "挑战板块",
+    "permalink": "/ninghealth-manual/docs/challenge"
+  },
+  "next": {
+    "title": "AI报告与分析板块",
+    "permalink": "/ninghealth-manual/docs/ai-report"
+  }
+}

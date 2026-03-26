@@ -1,0 +1,88 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ninghealth-manual/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ninghealth-manual/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "ai-report",
+              "path": "/ninghealth-manual/docs/ai-report",
+              "sidebar": "docs"
+            },
+            {
+              "id": "challenge",
+              "path": "/ninghealth-manual/docs/challenge",
+              "sidebar": "docs"
+            },
+            {
+              "id": "club",
+              "path": "/ninghealth-manual/docs/club",
+              "sidebar": "docs"
+            },
+            {
+              "id": "evaluation",
+              "path": "/ninghealth-manual/docs/evaluation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "exercise",
+              "path": "/ninghealth-manual/docs/exercise",
+              "sidebar": "docs"
+            },
+            {
+              "id": "habits",
+              "path": "/ninghealth-manual/docs/habits",
+              "sidebar": "docs"
+            },
+            {
+              "id": "intro",
+              "path": "/ninghealth-manual/docs/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "main-features",
+              "path": "/ninghealth-manual/docs/main-features",
+              "sidebar": "docs"
+            },
+            {
+              "id": "membership",
+              "path": "/ninghealth-manual/docs/membership",
+              "sidebar": "docs"
+            },
+            {
+              "id": "profile",
+              "path": "/ninghealth-manual/docs/profile",
+              "sidebar": "docs"
+            },
+            {
+              "id": "register",
+              "path": "/ninghealth-manual/docs/register",
+              "sidebar": "docs"
+            },
+            {
+              "id": "test",
+              "path": "/ninghealth-manual/docs/test",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/ninghealth-manual/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
