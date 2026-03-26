@@ -13,6 +13,11 @@ build/
 /site/
 *.html
 
+# Docusaurus
+.docusaurus/
+node_modules/
+build/
+
 # IDE
 .idea/
 .vscode/
