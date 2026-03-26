@@ -1,0 +1,29 @@
+/* Custom styles for NingHealth docs */
+:root {
+  --ifm-color-primary: #00b894;
+  --ifm-color-primary-dark: #00a383;
+  --ifm-color-primary-darker: #009678;
+  --ifm-color-primary-darkest: #007d62;
+  --ifm-color-primary-light: #34c759;
+  --ifm-color-primary-lighter: #4cd964;
+  --ifm-color-primary-lightest: #7bed9f;
+  --ifm-code-font-size: 95%;
+}
+
+.markdown h1 {
+  font-size: 3rem;
+}
+
+.markdown h2 {
+  font-size: 2.5rem;
+  border-bottom: 2px solid var(--ifm-color-primary);
+  padding-bottom: 10px;
+}
+
+.markdown h3 {
+  font-size: 2rem;
+}
+
+.jumbotron {
+  background: linear-gradient(135deg, #00b894, #00cec9);
+}
