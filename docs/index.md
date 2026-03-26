@@ -1,3 +1,10 @@
+---
+id: intro
+title: 柠健康 APP 用户手册
+sidebar_label: 欢迎
+sidebar_position: 0
+---
+
 # 柠健康 APP 用户手册
 
 欢迎使用柠健康（LiMe）APP 官方用户手册！

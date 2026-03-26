@@ -1,0 +1,15 @@
+{
+  "theme.SearchBar.label": "搜索",
+  "theme.docs.sidebar.expandButtonTitle": "展开侧边栏",
+  "theme.docs.sidebar.collapseButtonTitle": "收起侧边栏",
+  "theme.docs.sidebar.nextPage": "下一页",
+  "theme.docs.sidebar.previousPage": "上一页",
+  "theme.docs.editThisPage": "编辑此页",
+  "theme.docs.versionBadge.label": "版本",
+  "theme.docs.docCard.description": "了解更多",
+  "theme.common.editThisPage": "编辑此页",
+  "theme.commonjavascripts.required": "需要 JavaScript",
+  "theme.common.linkIcon": "链接图标",
+  "theme.common.seeAll": "查看全部 {count}",
+  "theme.common.visibility": "可见性"
+}

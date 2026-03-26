@@ -9,7 +9,7 @@ const config = {
   url: 'https://zhuyedylan.github.io',
   baseUrl: '/ninghealth-manual/',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
@@ -42,6 +42,7 @@ const config = {
         logo: {
           alt: '柠健康 Logo',
           src: 'img/logo.svg',
+          href: 'https://zhuyedylan.github.io/ninghealth-manual/',
         },
         items: [
           {

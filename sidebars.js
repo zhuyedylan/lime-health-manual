@@ -1,10 +1,7 @@
 module.exports = {
   docs: {
-    ' Getting Started': ['intro', 'register', 'profile'],
-    '核心功能': [
-      'main-features',
-      'membership',
-    ],
+    '入门指南': ['intro', 'register', 'profile'],
+    '核心功能': ['main-features', 'membership'],
     '健康习惯': ['habits'],
     '锻炼功能': ['exercise'],
     '健康评估': ['evaluation'],
