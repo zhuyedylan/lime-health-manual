@@ -41,7 +41,7 @@ const config = {
         title: '柠健康 APP',
         logo: {
           alt: '柠健康 Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
           href: 'https://lime-tech.cn/',
         },
         items: [
