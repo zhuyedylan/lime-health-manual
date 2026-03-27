@@ -60,7 +60,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `© 2024 柠健康团队`,
+        copyright: `© 2026 柠健康团队`,
       },
       prism: {
         theme: prismThemes.github,
