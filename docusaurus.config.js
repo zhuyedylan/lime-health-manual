@@ -7,7 +7,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://zhuyedylan.github.io',
-  baseUrl: '/ninghealth-manual/',
+  baseUrl: '/',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -42,7 +42,7 @@ const config = {
         logo: {
           alt: '柠健康 Logo',
           src: 'img/logo.svg',
-          href: 'https://zhuyedylan.github.io/ninghealth-manual/',
+          href: 'https://zhuyedylan.github.io/',
         },
         items: [
           {
