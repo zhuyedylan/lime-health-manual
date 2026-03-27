@@ -42,7 +42,7 @@ const config = {
         logo: {
           alt: '柠健康 Logo',
           src: 'img/logo.svg',
-          href: 'https://zhuyedylan.github.io/',
+          href: 'https://lime-tech.cn/',
         },
         items: [
           {
